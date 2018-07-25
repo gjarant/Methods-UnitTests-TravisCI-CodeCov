@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/gjarant/Methods-UnitTests-TravisCI-CodeCov/branch/master/graph/badge.svg)](https://codecov.io/gh/gjarant/Methods-UnitTests-TravisCI-CodeCov)
 
 # Methods-UnitTests-TravisCI-CodeCov
-1. Basic Methods
+1. Methods
 2. Unit Tests
 3. Travis-CI
 4. CodeCov
